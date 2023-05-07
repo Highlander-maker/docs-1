@@ -16,3 +16,4 @@ You can use one of these websites to stake NOIS
 - [Restake](https://restake.app/nois)
 - [QuickStake](https://quickstake.io/nois-1/staking)
 - [nois-stake.d-stake.xyz](https://nois-stake.d-stake.xyz/stake)
+- [ChainTools Explorter] (https://explorer.chaintools.tech/nois)
